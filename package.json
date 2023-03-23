@@ -31,7 +31,7 @@
   ],
   "dependencies": {
     "arrify": "2.0.1",
-    "debug": "4.1.1",
+    "debug": "4.3.4",
     "execa": "2.0.3",
     "globby": "10.0.2",
     "has-yarn": "2.1.0",
@@ -44,7 +44,7 @@
   },
   "devDependencies": {
     "@types/arrify": "1.0.4",
-    "@types/debug": "4.1.4",
+    "@types/debug": "4.1.7",
     "@types/execa": "0.9.0",
     "@types/meow": "5.0.0",
     "@types/node": "10.17.60",
